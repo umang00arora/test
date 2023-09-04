@@ -1,5 +1,0 @@
-{{#user}}
-Name: Umang Arora
-Skills: HTML, CSS, JS, ReactJS, Java, C++, SQL
-Email: umangarora810@gmail.com
-{{/user}}
